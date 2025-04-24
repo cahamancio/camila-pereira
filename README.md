@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm a communication and marketing professional with a strong foundation in digital strategy, content, and analytics. Currently, I'm diving deeper into data analysis to bridge the gap between marketing and technology.
 
+## 📊 GitHub Stats
+![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahamancio&show_icons=true&theme=radical)
+
 ## 🚀 About Me
 - 💼 I work in **Marketing & Communication**, with experience in SEO, SEM, campaign strategy, and content management.
 - 📊 I’m currently learning **Python** and **SQL** to enhance my skills in **marketing data analysis** and **business intelligence**.
@@ -16,8 +19,7 @@ Here's what I work with and what I'm learning:
 - **Platforms:** Wix, Odoo, Notion, Asana
 - **Data & BI:** Power BI (beginner), Excel (advanced), Google Sheets
 
-## 📊 GitHub Stats
-![Camila's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahamancio&show_icons=true&theme=radical)
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/carlos-amancio) 
