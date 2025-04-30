@@ -1,0 +1,45 @@
+# SEO Case – MIT Tech Review Brasil
+
+Este repositório contém um case de crescimento orgânico implementado na MIT Tech Review Brasil em 2024-2025, após a entrada da analista Camila Kelly de Mesquita Pereira.
+
+## 📁 Conteúdo
+
+- `index.html`: Página web com todos os dados explicativos.
+- `desempenho_seo_camila.png`: Gráficos comparativos de desempenho SEO antes e depois da atuação da analista.
+
+## 📈 Resultados
+
+| Indicador              | Valor Atual | Crescimento |
+|------------------------|-------------|-------------|
+| Cliques orgânicos      | 307.160     | +1.319,4%   |
+| Impressões orgânicas   | 11.762.412  | +998,9%     |
+| CTR orgânico           | 2,61%       | +29,2%      |
+
+## 🚀 Como visualizar localmente
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/seo-case-mit.git
+```
+
+2. Acesse a pasta do projeto:
+```bash
+cd seo-case-mit
+```
+
+3. Abra o arquivo `index.html` no navegador.
+
+## 🌐 GitHub Pages
+Para publicar a página:
+
+1. Vá em **Settings > Pages** no repositório.
+2. Selecione a branch `main` e a pasta `/root` (ou `/docs`, se preferir).
+3. Salve e acesse o link gerado para visualizar o projeto online.
+
+---
+
+Feito com dedicação por Camila Kelly de Mesquita Pereira.
+
+---
+
+> Caso queira adaptar para outro case ou incluir versões em inglês, basta editar o HTML.
